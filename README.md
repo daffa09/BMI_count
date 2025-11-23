@@ -2,10 +2,12 @@
 <!-- slug: bmi-count -->
 <!-- title: BMI Count Calculator -->
 <!-- description: A simple BMI (Body Mass Index) calculator application built with Java Swing -->
-<!-- image: https://github.com/user-attachments/assets/placeholder-bmi-count -->
+<!-- image: https://github.com/user-attachments/assets/4a850d07-5dfc-44f5-9138-0dcefc2acb1e -->
 <!-- tags: java, swing, calculator, desktop-app -->
 
 # BMI Count Calculator
+
+<img width="1536" height="1024" alt="BMI-calculator" src="https://github.com/user-attachments/assets/4a850d07-5dfc-44f5-9138-0dcefc2acb1e" />
 
 A simple yet functional Body Mass Index (BMI) calculator built with Java and Swing GUI framework. This application helps users calculate their BMI based on height and weight inputs, providing instant health category feedback.
 
